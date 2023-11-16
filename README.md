@@ -4,7 +4,7 @@ This is the boilerplate for the Medical Data Visualizer project. Instructions fo
 
 This is third project of freecodecamp's data analysis with python cert
 
-you can see the result plot in catplot.jpg and heatmap.jpg
+you can see the result plot in catplot.png and heatmap.png
 
 feel free to try it here : (replit)[https://replit.com/@riefkyanova/fcc-medical-data-visualizer]
 
