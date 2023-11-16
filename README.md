@@ -6,6 +6,6 @@ This is third project of freecodecamp's data analysis with python cert
 
 you can see the result plot in catplot.png and heatmap.png
 
-feel free to try it here : (replit)[https://replit.com/@riefkyanova/fcc-medical-data-visualizer]
+feel free to try it here : [replit](https://replit.com/@riefkyanova/fcc-medical-data-visualizer)
 
-or the notebook here : (notebook)[https://colab.research.google.com/drive/1lqQ5MDJf8rYERJGVX_AwQ4K4nabcT0kZ?usp=sharing]
+or the notebook here : [notebook](https://colab.research.google.com/drive/1lqQ5MDJf8rYERJGVX_AwQ4K4nabcT0kZ?usp=sharing)
